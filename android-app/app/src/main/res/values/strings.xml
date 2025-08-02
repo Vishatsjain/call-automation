@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Vibe Coder</string>
+    
+    <!-- Navigation -->
+    <string name="nav_customers">Customers</string>
+    <string name="nav_add_customer">Add Customer</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Customer Fields -->
+    <string name="label_name">Name</string>
+    <string name="label_phone">Phone Number</string>
+    <string name="label_amount">Amount</string>
+    <string name="label_promise_date">Promise Date</string>
+    <string name="label_notes">Notes</string>
+    
+    <!-- Actions -->
+    <string name="action_save">Save</string>
+    <string name="action_update">Update</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_call">Call</string>
+    <string name="action_start_call">Start Call</string>
+    <string name="action_end_call">End Call</string>
+    <string name="action_export">Export Data</string>
+    <string name="action_import">Import Data</string>
+    
+    <!-- Toggle Labels -->
+    <string name="toggle_lock_info">Lock Info</string>
+    <string name="toggle_edit_info">Edit Info</string>
+    
+    <!-- Sort Options -->
+    <string name="sort_by_date">Date-wise</string>
+    <string name="sort_by_name">Alphabetical</string>
+    <string name="sort_by_amount">Amount</string>
+    <string name="sort_by_followup_count">Follow-up Count</string>
+    
+    <!-- Follow-up -->
+    <string name="followup_history">Follow-up History</string>
+    <string name="followup_count">Follow-ups: %d</string>
+    <string name="no_followups">No follow-ups yet</string>
+    
+    <!-- Settings -->
+    <string name="settings_dark_mode">Dark Mode</string>
+    <string name="settings_notification_times">Notification Times</string>
+    <string name="settings_add_notification_time">Add Notification Time</string>
+    
+    <!-- Notifications -->
+    <string name="notification_channel_name">Call Reminders</string>
+    <string name="notification_channel_description">Daily reminders for follow-up calls</string>
+    <string name="notification_title">Time for Follow-up Calls</string>
+    <string name="notification_message">You have %d customers to call today</string>
+    
+    <!-- Messages -->
+    <string name="message_customer_saved">Customer saved successfully</string>
+    <string name="message_customer_updated">Customer updated successfully</string>
+    <string name="message_customer_deleted">Customer deleted successfully</string>
+    <string name="message_no_customers_today">No customers to call today</string>
+    <string name="message_export_success">Data exported successfully</string>
+    <string name="message_import_success">Data imported successfully</string>
+    
+    <!-- Errors -->
+    <string name="error_name_required">Name is required</string>
+    <string name="error_phone_required">Phone number is required</string>
+    <string name="error_amount_required">Amount is required</string>
+    <string name="error_invalid_phone">Invalid phone number</string>
+    <string name="error_invalid_amount">Invalid amount</string>
+    <string name="error_permission_denied">Permission denied</string>
+    <string name="error_call_failed">Failed to make call</string>
+    <string name="error_export_failed">Export failed</string>
+    <string name="error_import_failed">Import failed</string>
+    
+    <!-- Content Descriptions -->
+    <string name="cd_add_customer">Add new customer</string>
+    <string name="cd_call_customer">Call customer</string>
+    <string name="cd_edit_customer">Edit customer</string>
+    <string name="cd_delete_customer">Delete customer</string>
+    <string name="cd_sort_customers">Sort customers</string>
+</resources>

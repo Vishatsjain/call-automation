@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material Design 3 Colors -->
+    <color name="seed">#4F46E5</color>
+    <color name="md_theme_light_primary">#4F46E5</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#E0E7FF</color>
+    <color name="md_theme_light_onPrimaryContainer">#1E1B16</color>
+    <color name="md_theme_light_secondary">#6B7280</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#F3F4F6</color>
+    <color name="md_theme_light_onSecondaryContainer">#1F2937</color>
+    <color name="md_theme_light_tertiary">#10B981</color>
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiaryContainer">#D1FAE5</color>
+    <color name="md_theme_light_onTertiaryContainer">#064E3B</color>
+    <color name="md_theme_light_error">#EF4444</color>
+    <color name="md_theme_light_errorContainer">#FEE2E2</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_onErrorContainer">#7F1D1D</color>
+    <color name="md_theme_light_background">#FAFAFA</color>
+    <color name="md_theme_light_onBackground">#1C1B1F</color>
+    <color name="md_theme_light_surface">#FFFFFF</color>
+    <color name="md_theme_light_onSurface">#1C1B1F</color>
+    <color name="md_theme_light_surfaceVariant">#F5F5F5</color>
+    <color name="md_theme_light_onSurfaceVariant">#49454F</color>
+    <color name="md_theme_light_outline">#D1D5DB</color>
+    <color name="md_theme_light_inverseOnSurface">#F4EFF4</color>
+    <color name="md_theme_light_inverseSurface">#313033</color>
+    <color name="md_theme_light_inversePrimary">#A5B4FC</color>
+    <color name="md_theme_light_shadow">#000000</color>
+    <color name="md_theme_light_surfaceTint">#4F46E5</color>
+    <color name="md_theme_light_outlineVariant">#E5E7EB</color>
+    <color name="md_theme_light_scrim">#000000</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="md_theme_dark_primary">#A5B4FC</color>
+    <color name="md_theme_dark_onPrimary">#1E1B16</color>
+    <color name="md_theme_dark_primaryContainer">#3730A3</color>
+    <color name="md_theme_dark_onPrimaryContainer">#E0E7FF</color>
+    <color name="md_theme_dark_secondary">#9CA3AF</color>
+    <color name="md_theme_dark_onSecondary">#1F2937</color>
+    <color name="md_theme_dark_secondaryContainer">#374151</color>
+    <color name="md_theme_dark_onSecondaryContainer">#F3F4F6</color>
+    <color name="md_theme_dark_tertiary">#6EE7B7</color>
+    <color name="md_theme_dark_onTertiary">#064E3B</color>
+    <color name="md_theme_dark_tertiaryContainer">#047857</color>
+    <color name="md_theme_dark_onTertiaryContainer">#D1FAE5</color>
+    <color name="md_theme_dark_error">#F87171</color>
+    <color name="md_theme_dark_errorContainer">#7F1D1D</color>
+    <color name="md_theme_dark_onError">#1F2937</color>
+    <color name="md_theme_dark_onErrorContainer">#FEE2E2</color>
+    <color name="md_theme_dark_background">#0F0F0F</color>
+    <color name="md_theme_dark_onBackground">#E6E1E5</color>
+    <color name="md_theme_dark_surface">#1F1F1F</color>
+    <color name="md_theme_dark_onSurface">#E6E1E5</color>
+    <color name="md_theme_dark_surfaceVariant">#2A2A2A</color>
+    <color name="md_theme_dark_onSurfaceVariant">#CAC4D0</color>
+    <color name="md_theme_dark_outline">#4B5563</color>
+    <color name="md_theme_dark_inverseOnSurface">#1C1B1F</color>
+    <color name="md_theme_dark_inverseSurface">#E6E1E5</color>
+    <color name="md_theme_dark_inversePrimary">#4F46E5</color>
+    <color name="md_theme_dark_shadow">#000000</color>
+    <color name="md_theme_dark_surfaceTint">#A5B4FC</color>
+    <color name="md_theme_dark_outlineVariant">#374151</color>
+    <color name="md_theme_dark_scrim">#000000</color>
+
+    <!-- Follow-up Status Colors -->
+    <color name="followup_0_5">#E0F2FE</color>     <!-- Light blue -->
+    <color name="followup_6_10">#BAE6FD</color>    <!-- Medium blue -->
+    <color name="followup_11_20">#7DD3FC</color>   <!-- Darker blue -->
+    <color name="followup_20_plus">#EF4444</color> <!-- Dark red -->
+    
+    <!-- Follow-up Status Colors - Dark Theme -->
+    <color name="followup_0_5_dark">#1E293B</color>
+    <color name="followup_6_10_dark">#334155</color>
+    <color name="followup_11_20_dark">#475569</color>
+    <color name="followup_20_plus_dark">#7F1D1D</color>
+</resources>
